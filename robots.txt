@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://broncocargo.com/sitemap.xml
